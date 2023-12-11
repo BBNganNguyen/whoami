@@ -1,1 +1,1 @@
-Please visit my website at https://bbngannguyen.github.io/whoami/
+Please [click here](https://bbngannguyen.github.io/whoami/) for more detail.
